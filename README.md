@@ -1,1 +1,3 @@
 # progTech
+
+Ide jön valami.
