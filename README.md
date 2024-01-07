@@ -1,3 +1,3 @@
 # progTech
 
-Ide jön valami.
+A progTech mappában találhatók a pótvédésre elkészült file-ok.
