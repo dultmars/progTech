@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.0.1">
+<file name="C:\Users\dultm\IdeaProjects\progTech\WumpusGame\src\main\java\hu\nye\wumpusgame\Main.java">
+</file>
+<file name="C:\Users\dultm\IdeaProjects\progTech\WumpusGame\src\main\java\hu\nye\wumpusgame\model\Cell.java">
+</file>
+<file name="C:\Users\dultm\IdeaProjects\progTech\WumpusGame\src\main\java\hu\nye\wumpusgame\model\CellType.java">
+</file>
+<file name="C:\Users\dultm\IdeaProjects\progTech\WumpusGame\src\main\java\hu\nye\wumpusgame\model\Direction.java">
+</file>
+<file name="C:\Users\dultm\IdeaProjects\progTech\WumpusGame\src\main\java\hu\nye\wumpusgame\model\GameBoardVO.java">
+</file>
+<file name="C:\Users\dultm\IdeaProjects\progTech\WumpusGame\src\main\java\hu\nye\wumpusgame\model\Hero.java">
+</file>
+<file name="C:\Users\dultm\IdeaProjects\progTech\WumpusGame\src\main\java\hu\nye\wumpusgame\model\HeroEntity.java">
+</file>
+<file name="C:\Users\dultm\IdeaProjects\progTech\WumpusGame\src\main\java\hu\nye\wumpusgame\service\game\Game.java">
+</file>
+<file name="C:\Users\dultm\IdeaProjects\progTech\WumpusGame\src\main\java\hu\nye\wumpusgame\service\game\GameState.java">
+</file>
+<file name="C:\Users\dultm\IdeaProjects\progTech\WumpusGame\src\main\java\hu\nye\wumpusgame\service\persistence\GameBoardEntity.java">
+</file>
+<file name="C:\Users\dultm\IdeaProjects\progTech\WumpusGame\src\main\java\hu\nye\wumpusgame\service\persistence\GameBoardRepository.java">
+</file>
+</checkstyle>
