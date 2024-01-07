@@ -1,3 +1,3 @@
 # progTech
 
-Ide jön valami.
+A WUMPUS játék a pótvédésre
